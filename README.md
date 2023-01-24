@@ -1,2 +1,2 @@
-# LAB-JavaEE
-Um repositório com configurações de implementações do JavaEE. 
+# :test_tube: LAB-JavaEE
+Um repositório para testes e experiências envolvendo JavaEE. Aqui serão encontradas configurações básicas, sugestões de experiências e diversos testes que permitam aos desenvolvedores entender o que de fato é um servidor de aplicação, seu funcionamento mais básico e até conceitos mais avançados. Sinta-se livre para copiar, pesquisar, testar e quebrar a aplicação quantas vezes quiser. Afinal é assim que vamos aprender. :smile:
